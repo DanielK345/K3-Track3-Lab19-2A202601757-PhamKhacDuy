@@ -27,3 +27,5 @@ golden_dataset.csv
 # OS files
 .DS_Store
 Thumbs.db
+
+highlights.json
